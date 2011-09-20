@@ -1,0 +1,14 @@
+year: 2011
+month_name: September
+month_day: 20
+day_name: Tuesday
+title: smartcd
+speaker: Dave Olszewski
+
+talk_blurb: |
+    smartcd: change your environment when you change directories.
+
+speaker_blurb: |
+    Dave Olszewski is a long time perl geek, newfound git geek.  It is also rumored
+    that he writes shell code.
+

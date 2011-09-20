@@ -1,0 +1,26 @@
+year: 2011
+month_name: July
+month_day: 26
+day_name: Tuesday
+title: Mason 2: True OO templating for the web and beyond
+speaker: Jonathan Swartz
+
+talk_blurb: |
+    Mason 2: True OO templating for the web and beyond
+
+    Mason is a Perl-based templating framework for generating web pages and other dynamic content. Over the past decade it has been used to generate thousands of web sites large and small, including Amazon.com, Target.com, Salon.com and del.icio.us.
+
+    Version 2.0 of Mason was released in February, twelve years after its initial incarnation.  It has been rearchitected and reimplemented from the ground up, to take advantage of modern Perl techniques (Moose, Plack/PSGI) and to add long-desired features and syntax.
+
+    The original author of Mason will present Mason 2's new architecture and improvements and show how it fits into the modern Perl web development universe.
+
+    For a summary of what's new, see
+
+       http://www.openswartz.com/2011/02/21/announcing-mason-2/
+
+    and for documentation and download, see
+
+       http://search.cpan.org/perldoc?Mason
+
+speaker_blurb: |
+    Jonathan Swartz is a 10+ year unabashed Perl devotee living in the SF Bay Area, doing web consulting for Hearst and other companies. He is the author of several CPAN projects including Mason and CHI.
